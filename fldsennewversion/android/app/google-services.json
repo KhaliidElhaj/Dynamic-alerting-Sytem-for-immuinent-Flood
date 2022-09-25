@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "757318011833",
+    "firebase_url": "https://fldsenv1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fldsenv1",
+    "storage_bucket": "fldsenv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757318011833:android:f9370db997311bb1a38468",
+        "android_client_info": {
+          "package_name": "com.FLDSEN.v1.fldsenv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757318011833-oqqi3b3d8891ts6siegirrtu3k69j3hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmQHjX-55_TikFlaMEvS_GqG5uF5UYk9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757318011833-oqqi3b3d8891ts6siegirrtu3k69j3hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

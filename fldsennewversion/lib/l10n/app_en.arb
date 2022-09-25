@@ -1,0 +1,68 @@
+{
+    "language" : "English",
+    "@language" : {
+        "description" :"The current language"
+    },
+    "liveTracking" : "Live Tracking",
+    "@liveTracking" : {
+        "description" : "Tracks Live data"
+    },
+    "water_level" : "Water Level",
+    "@water_level" : {
+        "description" : "The Water's Level"
+    },
+    "water_velocity" : "Water Velocity",
+    "@water_velocity" : {
+        "description" : "The Water's Velocity"
+        },
+    "site_status" : "Site Status",
+    "@site_status" : {
+        "description" : "The Site's Status"
+        },
+    "currentLanguage" : "Current Language",
+    "@currentLanguage" : {
+        "description" : "Current Language"
+        },
+    "mPerS" : "M/s",
+    "@mPerS" : {
+        "description" : "Meter's per second"
+        },
+    "mSingPlur" : "M(s)",
+    "@mSingPlur" : {
+        "description" : "Meter's per second"
+        },
+    "chooseASite" : "Choose A Site",
+    "@chooseASite" : {
+        "description" : "Choosing a Site"
+        },
+    "pAs" : "Pick one of these sites, after you've picked Press Start Tracking!",
+    "@pAs" : {
+        "description" : "Pick a Site"
+        },
+    "lineGraph" : "Line Graph",
+    "@lineGraph" : {
+        "description" : "Line Graph"
+        },
+    "eSixS" : "Every 60 seconds, the floods Water level will be set on this graph.",
+    "@eSixS" : {
+        "description" : "every 60s graph"
+        },
+    "meters" : "-Meter(s)-",
+    "@eSixS" : {
+        "description" : "Meter label for the graph"
+        },
+    "eNoREP" : "-Each Number Represents a Minute-",
+    "@eNoREP" : {
+            "description" : "Number rep. for the graph"
+        },
+    "infoMisc" : "Info & Miscellaneous",
+    "@infoMisc" : {
+            "description" : "Info & miscellaneous"
+        },
+    "langStatement" : "This Application's language is inline with the device's language, to change it change the device's language.",
+    "@langStatement" : {
+            "description" : "app and device language"
+        }
+
+
+}
